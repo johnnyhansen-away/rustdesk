@@ -11,3 +11,4 @@
 ## Reporting a Vulnerability
 
 Here we should write what to do in case of a security vulnerability
+
